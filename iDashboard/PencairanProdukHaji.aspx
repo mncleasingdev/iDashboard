@@ -61,7 +61,7 @@
                                 <div class="x_panel">
                                     <div class="x_content">
                                         <div class="x_title">
-                                            <h2>TOP 5 MARKETING HAJI MNC GUI</h2>
+                                            <h2>TOP 5 MARKETING MNC GUI</h2>
                                             <div class="clearfix"></div>
                                         </div>
                                         <div id="top5_ao">
@@ -69,7 +69,6 @@
                                     </div>
                                 </div>
                             </div>
-
                             <%--top marketing end--%>
                         </div>
                         <div class="fa-hover col-md-12 col col-sm-12 col-xs-12">
@@ -288,7 +287,7 @@
                     //pip.push(parseFloat(r[i].FACTORING));
                     pip.push(parseFloat(r[i].HAJI));
                 }
-                if (r[i].Keterangan === 'Target/Budget') {
+                if (r[i].Keterangan === 'Target / Budget') {
                     //bud.push(parseFloat(r[i].HETO));
                     //bud.push(parseFloat(r[i].MEDICAL));
                     //bud.push(parseFloat(r[i].SCF));
